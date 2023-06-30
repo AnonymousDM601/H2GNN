@@ -1,0 +1,6 @@
+*~
+output
+__pycache__
+.mypy_cache/
+.idea/
+data/
